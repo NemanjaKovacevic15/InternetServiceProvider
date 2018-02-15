@@ -1,3 +1,3 @@
 # InternetServiceProvider
 Net Provider Packages
-*** Java desktop app showing/adding clients to Internet provider.
+*** Java GUI app showing/adding clients to Internet provider.
